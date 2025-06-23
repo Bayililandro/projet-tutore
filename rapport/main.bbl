@@ -1,0 +1,62 @@
+\begin{thebibliography}{10}
+
+\bibitem{noauthor_securing_2023}
+Securing {LLM} {Systems} {Against} {Prompt} {Injection}, August 2023.
+
+\bibitem{burgess_security_nodate}
+Matt Burgess.
+\newblock The {Security} {Hole} at the {Heart} of {ChatGPT} and {Bing}.
+\newblock {\em Wired}.
+\newblock Section: tags.
+
+\bibitem{chen_secalign_2025}
+Sizhe Chen, Arman Zharmagambetov, Saeed Mahloujifar, Kamalika Chaudhuri, David
+  Wagner, and Chuan Guo.
+\newblock {SecAlign}: {Defending} {Against} {Prompt} {Injection} with
+  {Preference} {Optimization}, January 2025.
+\newblock arXiv:2410.05451 [cs].
+
+\bibitem{fasha_mitigating_2024}
+Mohammad Fasha, Faisal~Abul Rub, Nasim Matar, Bilal Sowan, Mohammad Al~Khaldy,
+  and Hussam Barham.
+\newblock Mitigating the {OWASP} {Top} 10 {For} {Large} {Language} {Models}
+  {Applications} using {Intelligent} {Agents}.
+\newblock In {\em 2024 2nd {International} {Conference} on {Cyber} {Resilience}
+  ({ICCR})}, pages 1--9, February 2024.
+
+\bibitem{mathew_enhancing_nodate}
+Eleena Mathew.
+\newblock Enhancing {Security} in {Large} {Language} {Models}: {A}
+  {Comprehensive} {Review} of {Prompt} {Injection} {Attacks} and {Defenses}.
+
+\bibitem{rossi_early_2024}
+Sippo Rossi, Alisia~Marianne Michel, Raghava~Rao Mukkamala, and Jason~Bennett
+  Thatcher.
+\newblock An {Early} {Categorization} of {Prompt} {Injection} {Attacks} on
+  {Large} {Language} {Models}, January 2024.
+\newblock arXiv:2402.00898 [cs].
+
+\bibitem{willison_prompt_nodate}
+Simon Willison.
+\newblock Prompt injection: {What}’s the worst that can happen? {Apr}. 14,
+  2023.
+\newblock {\em URL: https://perma. cc/D7B6-ESAX}.
+
+\bibitem{zhang_formalizing_2025}
+Chengyu Zhang.
+\newblock Formalizing and {Benchmarking} {Prompt} {Injection} {Attacks} and
+  {Defenses}, February 2025.
+\newblock Section: reading.
+
+\bibitem{zhang_defense_2025}
+Ruiyi Zhang, David Sullivan, Kyle Jackson, Pengtao Xie, and Mei Chen.
+\newblock Defense against {Prompt} {Injection} {Attacks} via {Mixture} of
+  {Encodings}, April 2025.
+\newblock arXiv:2504.07467 [cs].
+
+\bibitem{zhou_spin_2024}
+Leon Zhou, Junfeng Yang, and Chengzhi Mao.
+\newblock {SPIN}: {Self}-{Supervised} {Prompt} {INjection}, October 2024.
+\newblock arXiv:2410.13236 [cs].
+
+\end{thebibliography}

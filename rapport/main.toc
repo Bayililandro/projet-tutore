@@ -1,0 +1,7 @@
+\contentsline {chapter}{\numberline {1}Etat de l'art sur les attaques par prompt injection}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}types de prompt injections (injection rapide)}{2}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Prompt injection indirecte}{3}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Prompt injection directe}{3}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}Protection contre les attaques par injection de prompt}{6}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Défenses par prévention}{6}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Défenses actives (alignment et fine-tuning)}{6}{subsection.1.2.2}%
